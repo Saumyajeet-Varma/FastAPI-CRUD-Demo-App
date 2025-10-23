@@ -20,7 +20,7 @@ This project demonstrates how to create, read, update, and delete (CRUD) records
 
 ```bash
 git clone https://github.com/saumyajeet-varma/fastapi-crud-demo-app.git
-cd fastapi-crud-demoapp
+cd fastapi-crud-demo-app
 
 ```
 
