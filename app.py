@@ -22,7 +22,7 @@ def get_users():
 @app.post("/user/create")
 def create_user(user: User):
     users.append(user)
-    return users
+    return user
 
 @app.put("/user/{user_id}")
 def update_user(user_id: int, updated_user: User):
